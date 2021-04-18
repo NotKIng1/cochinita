@@ -1,2 +1,4 @@
 <tittle>PRUEBA</tittle>
-<body>Lista de venta de cochinita</body>
+<body>
+  <p>Lista de venta de cochinita</p>
+</body>
