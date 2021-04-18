@@ -1,3 +1,4 @@
+<html>
 <body>
   <tittle>Lista de venta de cochinita</tittle>
   <p></p>
@@ -9,3 +10,4 @@
   <p>6._ </p>
   <p>7._ </p>
 </body>
+</html>
